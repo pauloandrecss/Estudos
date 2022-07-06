@@ -1,5 +1,4 @@
 Lista de exercícios I
-
 1. Faça um algoritmo que receba dois números e exiba o resultado da sua soma;
 2. Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e a divisão
    dos dois números lidos;
