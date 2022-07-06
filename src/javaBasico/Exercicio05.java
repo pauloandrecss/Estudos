@@ -2,7 +2,7 @@ package javaBasico;
 
 import java.util.Scanner;
 
-public class exercicio05 {
+public class Exercicio05 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Informe o nome do aluno:");
